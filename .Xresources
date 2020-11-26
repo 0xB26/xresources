@@ -1,0 +1,19 @@
+! 0xB26 Xresources color palette
+*.foreground: #E8FDFC
+*.background: #111B26
+*.color0:     #303A45
+*.color8:     #4F5964
+*.color1:     #F1434E
+*.color9:     #FF626D
+*.color2:     #10D868
+*.color10:    #2FF787
+*.color3:     #F18F43
+*.color11:    #FFAE62
+*.color4:     #10D8CC
+*.color12:    #2FF7EB
+*.color5:     #F143A5
+*.color13:    #FF62C4
+*.color6:     #1080D8
+*.color14:    #2F9FF7
+*.color7:     #E8FDFC
+*.color15:    #FFFFFF
